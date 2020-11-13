@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  text-align: left;
+  
+}
+
+.Content {
+  padding: 10px;
 }
 
 .App-logo {
